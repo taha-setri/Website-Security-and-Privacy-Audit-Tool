@@ -1,0 +1,8 @@
+{
+  "name": "Remix أداة تدقيق أمان وخصوصية المواقع",
+  "description": "أداة فحص وتدقيق أمان وخصوصية المواقع بواجهة قيادة مستقبلية مستوحاة من الخيال العلمي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
